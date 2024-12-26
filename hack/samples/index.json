@@ -216,6 +216,11 @@
     "gitUrl": "https://github.com/daytonaio/sample-streamlit-ai-document-insights"
   },
   {
+    "name" : "Movies Collection",
+    "description" : "Django-based back-end web application for customising movies collection, that allows user to perform basic CRUD operations.",
+    "gitUrl" : "https://github.com/AbhisheDB"
+  },
+  {
     "name": "Python/Flask - CodeChatter",
     "description": "CodeChatter v2 is an advanced Flask-based application that harnesses the power of the Groq API to provide intelligent coding assistance.",
     "gitUrl": "https://github.com/daytonaio/sample-flask-groq-code-assistant"
@@ -399,6 +404,11 @@
     "name": "Sample React.js Recipe Finder",
     "description": "Recipe Finder is a web app that helps you discover tasty recipes based on the ingredients you already have in your kitchen.",
     "gitUrl": "https://github.com/daytonaio/sample-react-recipe-finder"
+  },
+  {
+    "name": "Sample React.js Real Estate Website",
+    "description": "A React and Material-UI-based platform for listing and browsing properties, featuring property uploads with images, proof of ownership, and  responsive designs.",
+    "gitUrl": "https://github.com/sujal-98/realestate"
   },
   {
     "name": "Sample React.js Ecotrack",
