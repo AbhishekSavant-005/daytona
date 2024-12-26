@@ -469,4 +469,9 @@
     "description": "A Simple Chatbot Using Mistral",
     "gitUrl": "https://github.com/daytonaio/sample-python-mistral-chatbot"
   }
+  {
+    "name" : "Movies Collection",
+    "description" : "Django-based back-end web application for customising movies collection, that allows multiple users to perform basic CRUD operations within it, as similar to music playlist.",
+    "gitUrl" : "https://github.com/daytonaio/MoviesDB"
+  },
 ]
